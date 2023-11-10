@@ -37,7 +37,7 @@ It can be seen that the machine learning model can recognize the hand written di
 
 ## Program:
 ```
-developed by: Sri Ranjnai Priya.P
+developed by: Sri Ranjani Priya.P
 reg no: 212222220049
 ```
 ```
