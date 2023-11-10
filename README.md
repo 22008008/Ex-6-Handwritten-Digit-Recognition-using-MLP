@@ -185,9 +185,6 @@ def test_prediction(index, W1, b1, W2, b2):
 
 ![image](https://github.com/22008008/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118343520/e80afd93-3805-49a1-a808-86262d1b7157)
 
-## PREDICTING 2:
-
-![image](https://github.com/22008008/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118343520/0ce2d1f9-8bfb-4ba7-93f2-e5e8c6e81295)
 
 ## DEV_PREDICTIONS:
 
