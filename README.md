@@ -20,7 +20,7 @@ It can be seen that the machine learning model can recognize the hand written di
 ```
 
 ## Algorithm :
-
+```
 1:Import the necessary libraries of python.
 
 2:In the end_to_end function, first calculate the similarity between the inputs and the peaks. Then, to find w used the equation Aw = Y in matrix form. Each row of A (shape: (4, 2)) consists of index [0]:
@@ -32,7 +32,7 @@ It can be seen that the machine learning model can recognize the hand written di
 5:To find the weights for the edges to the 1-output unit. Weights associated would be: edge joining 1st node (peak1 output) to the output node edge joining 2nd node (peak2 output) to the output node bias edge.
 
 6:End the program.
-
+```
 
 ## Program:
 ```
@@ -153,7 +153,7 @@ def test_prediction(index, W1, b1, W2, b2):
    get_accuracy(dev_predictions, Y_dev)
 ```
 
-### Output :
+## Output :
 
 ## Y_TRAIN:
 
